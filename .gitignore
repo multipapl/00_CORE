@@ -1,0 +1,14 @@
+# Blender specific files
+*.blend[0-9]*
+
+# Cinema 4D backup files
+*.*@*
+*.gi
+*.gi2
+
+# Houdini backup files
+*_bak*.hip
+*_bak*.hipnc
+
+# Other files
+*.DS_Store

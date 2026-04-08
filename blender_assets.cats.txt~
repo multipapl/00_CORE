@@ -1,0 +1,24 @@
+# This is an Asset Catalog Definition file for Blender.
+#
+# Empty lines and lines starting with `#` will be ignored.
+# The first non-ignored line should be the version indicator.
+# Other lines are of the format "UUID:catalog/path/for/assets:simple catalog name"
+
+VERSION 1
+
+5e9dc3e6-2bcd-47da-8a66-1d84b557cb12:000_STARTER_PACK:000_STARTER_PACK
+c1131fa3-fd67-44ee-9d6a-e86cd544df97:001_MODELS:001_MODELS
+bc9bd730-de83-45fa-9f04-4ddfc6244ddc:001_MODELS/Geonodes:001_MODELS-Geonodes
+487ca0f6-f93a-468c-8cc8-e739dc668717:001_MODELS/Grass:001_MODELS-Grass
+0bd1a01d-1e9d-4f02-8f90-546750229691:001_MODELS/Grass/GrassWild:001_MODELS-Grass-GrassWild
+9a60395d-daf5-4f63-9ea5-fece38269561:001_MODELS/Props:001_MODELS-Props
+03df93f7-85b4-4b79-9d44-2e9e9c5d177a:002_MATERIALS:002_MATERIALS
+1de0787b-41a1-4907-aa45-c0f90052b124:002_MATERIALS/ArchBase:002_MATERIALS-ArchBase
+41078192-2c89-4fde-95b6-d8d49fd21c84:002_MATERIALS/Nature:002_MATERIALS-Nature
+922526a7-620e-479e-8d62-0608351db271:003_LIGHT:003_LIGHT
+b18fb390-4684-433e-b935-35e3d231c779:003_LIGHT/Gobo Shadows:003_LIGHT-Gobo Shadows
+66148eb4-e6bb-414a-bac5-4a6b43b46a92:003_LIGHT/Light Templates:003_LIGHT-Light Templates
+cb68023b-3a57-4596-8dc6-9789e9a5a934:004_TOOLS:004_TOOLS
+a7b4e912-7d55-410c-8c9f-cb4b66e4e262:004_TOOLS/Sweep:004_TOOLS-Sweep
+46842910-c103-4171-94fa-a2e7fc190e24:005_NODES:005_NODES
+637ab30b-b1f0-41c8-ac09-e4ca89b6ab8d:005_NODES/Shader Nodes:005_NODES-Shader Nodes
