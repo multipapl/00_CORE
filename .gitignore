@@ -1,5 +1,6 @@
 # Blender specific files
 *.blend[0-9]*
+blender_assets.cats.txt~
 
 # Cinema 4D backup files
 *.*@*
@@ -10,5 +11,11 @@
 *_bak*.hip
 *_bak*.hipnc
 
+# Anchorpoint local files
+.ap/
+*.approj
+
 # Other files
 *.DS_Store
+Thumbs.db
+desktop.ini
